@@ -1,3 +1,3 @@
-第一版本
-Git is a version control system.
+第二版本
+Git is a distributed version control system.
 Git is free software.
